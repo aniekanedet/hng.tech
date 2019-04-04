@@ -13,7 +13,7 @@
                      <div class="intern-block border-blue">
                         <img src="https://res.cloudinary.com/we-codes/image/upload/v1554390254/cover.jpg" alt="Aniekan Edet">
                         <h6>Aniekan Edet</h6>
-                        <p>Frontend Engineer</p>
+                        <p>Frontend Developer</p>
                         <ul class="list">
                         <li><a href="https://twitter.com/aniekanedett" target="_blank"<i class="fab fa-twitter"></i></a></li>
                         <li><a href="https://github.com/aniekanedet" target="_blank"<i class="fab fa-github"></i></a></li>
@@ -24,10 +24,10 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>Hi, I'm aniekan edet a Frontend dev. with 3 years expereince, bulding solutions for businesss and personal brands </p>
+                        <p>Hi! I'm aniekan edet a Frontend dev. <br> with 3 years expereince, bulding solutions for businesses <br> and personal brands </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>Html | CSS | Bootstrap |JavaScript | VUE | Wordpress </p>
+                        <p>HTML | CSS | Bootstrap | JavaScript | VUE | Wordpress </p>
                      </div>
                   </div>
                </div>
